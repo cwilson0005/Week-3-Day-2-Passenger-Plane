@@ -5,5 +5,5 @@ CREATE TABLE passenger_list (
   first_name VARCHAR(255),
   last_name VARCHAR(255),
   seat INT2,
-  vegetarian BIT
+  vegetarian BOOLEAN
 );
